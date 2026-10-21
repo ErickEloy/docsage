@@ -1,0 +1,12 @@
+[
+  {"question": "What is the main purpose of this document?", "expected_keywords": ["purpose", "main", "document"], "document_id": "sample.pdf"},
+  {"question": "What are the key findings mentioned?", "expected_keywords": ["findings", "key", "results"], "document_id": "sample.pdf"},
+  {"question": "When was this document created?", "expected_keywords": ["date", "created", "year"], "document_id": "sample.pdf"},
+  {"question": "Who are the authors of this document?", "expected_keywords": ["author", "by", "written"], "document_id": "sample.pdf"},
+  {"question": "What methodology was used?", "expected_keywords": ["method", "approach", "used"], "document_id": "sample.pdf"},
+  {"question": "What conclusions are drawn?", "expected_keywords": ["conclusion", "conclude", "finding"], "document_id": "sample.pdf"},
+  {"question": "What data sources were referenced?", "expected_keywords": ["source", "data", "reference"], "document_id": "sample.pdf"},
+  {"question": "What limitations are mentioned?", "expected_keywords": ["limitation", "limiting", "constraint"], "document_id": "sample.pdf"},
+  {"question": "What recommendations are provided?", "expected_keywords": ["recommend", "suggest", "recommendation"], "document_id": "sample.pdf"},
+  {"question": "What is the main conclusion about the results?", "expected_keywords": ["results", "conclusion", "main"], "document_id": "sample.pdf"}
+]
